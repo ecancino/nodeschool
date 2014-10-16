@@ -1,4 +1,3 @@
-workshoppers
-============
+# Workshoppers
 
 Node School Workshoppers
