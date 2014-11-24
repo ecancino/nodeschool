@@ -1,3 +1,5 @@
+#!/bin/env node
+
 var pets = ['cat', 'dog', 'rat'];
 
 for (var i = 0; i < pets.length; i++) {

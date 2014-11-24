@@ -1,3 +1,5 @@
+#!/bin/env node
+
 function countWords(inputWords) {
   var record = {};
   return inputWords.reduce(function(p, c, i) {
@@ -6,4 +8,4 @@ function countWords(inputWords) {
   }, {});
 }
 
-module.exports = countWords
+module.exports = countWords;

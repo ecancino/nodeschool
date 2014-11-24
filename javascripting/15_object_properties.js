@@ -1,3 +1,5 @@
+#!/bin/env node
+
 var food = {
   types: 'only pizza'
 };

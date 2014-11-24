@@ -1,5 +1,7 @@
+#!/bin/env node
+
 function upperCaser(input) {
   return input.toString().toUpperCase();
 }
 
-module.exports = upperCaser
+module.exports = upperCaser;

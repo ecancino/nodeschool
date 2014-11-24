@@ -1,3 +1,5 @@
+#!/bin/env node
+
 var slice = Array.prototype.slice
 
 /*
@@ -16,4 +18,4 @@ function logger(namespace) {
   }
 }
 
-module.exports = logger
+module.exports = logger;

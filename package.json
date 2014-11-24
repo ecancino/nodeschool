@@ -21,7 +21,20 @@
   "homepage": "https://github.com/treeskelt/workshoppers",
   "dependencies": {
     "bl": "^0.9.3",
+    "concat-stream": "^1.4.6",
+    "express": "^4.10.3",
+    "fs": "0.0.2",
+    "http": "0.0.0",
+    "net": "^1.0.2",
+    "path": "^0.4.9",
+    "request": "^2.48.0",
+    "split": "^0.3.1",
     "strftime": "^0.8.2",
-    "through2-map": "^1.4.0"
+    "stylus": "^0.49.3",
+    "through": "^2.3.6",
+    "through2-map": "^1.4.0",
+    "trumpet": "^1.7.0",
+    "url": "^0.10.1",
+    "websocket-stream": "^1.1.0"
   }
 }

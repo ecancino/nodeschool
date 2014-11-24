@@ -1,3 +1,5 @@
+#!/bin/env node
+
 var fruit = 'orange', message;
 
 if (fruit.length > 5) {

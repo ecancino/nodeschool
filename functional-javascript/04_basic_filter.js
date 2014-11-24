@@ -1,3 +1,5 @@
+#!/bin/env node
+
 function getShortMessages(messages) {
   return messages
     .map(function double (message) {
@@ -8,4 +10,4 @@ function getShortMessages(messages) {
   });
 }
 
-module.exports = getShortMessages
+module.exports = getShortMessages;
