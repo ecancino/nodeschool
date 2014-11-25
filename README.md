@@ -1,3 +1,25 @@
-# Workshoppers
+# [NodeSchool Workshoppers](http://nodeschool.io/#workshopper-list)
 
-Node School Workshoppers
+- ~~npm install -g [learnyounode](https://www.github.com/rvagg/learnyounode)~~
+- ~~npm install -g [javascripting](https://www.github.com/sethvincent/javascripting)~~
+- ~~npm install -g [git-it](https://www.github.com/jlord/git-it)~~
+- ~~npm install -g [stream-adventure](https://www.github.com/substack/stream-adventure)~~
+- ~~npm install -g [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop)~~
+- ~~npm install -g [expressworks](https://github.com/azat-co/expressworks)~~
+- ~~npm install -g [levelmeup](https://github.com/rvagg/levelmeup)~~
+- npm install -g [makemehapi](https://github.com/spumko/makemehapi)
+- npm install -g [promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt)
+- npm install -g [async-you](https://github.com/bulkan/async-you)
+- npm install -g [nodebot-workshop](https://github.com/tableflip/nodebot-workshop)
+- npm install -g [goingnative](https://github.com/rvagg/goingnative)
+- npm install -g [planetproto](https://github.com/sporto/planetproto)
+- npm install -g [webgl-workshop](https://github.com/stackgl/webgl-workshop)
+- npm install -g [shader-school](https://github.com/gl-modules/shader-school)
+- npm install -g [bytewiser](https://www.github.com/maxogden/bytewiser)
+- npm install -g [bug-clinic](https://github.com/othiym23/bug-clinic)
+- npm install -g [browserify-adventure](https://github.com/substack/browserify-adventure)
+- npm install -g [introtowebgl](https://github.com/alexmackey/IntroToWebGLWithThreeJS)
+- npm install -g [count-to-6](https://github.com/domenic/count-to-6)
+- npm install -g [kick-off-koa](https://github.com/koajs/kick-off-koa)
+- npm install -g [lololodash](https://github.com/mdunisch/lololodash)
+- npm install -g [learnyoucouchdb](https://github.com/robertkowalski/learnyoucouchdb)

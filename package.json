@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "NodeSchool Workshoppers",
   "main": "01_hello_world.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/treeskelt/workshoppers.git"
@@ -35,6 +33,31 @@
     "through2-map": "^1.4.0",
     "trumpet": "^1.7.0",
     "url": "^0.10.1",
-    "websocket-stream": "^1.1.0"
+    "websocket-stream": "^1.1.0",
+    "learnyounode": "~1.0.6",
+    "javascripting": "~1.8.0",
+    "git-it": "~1.6.0",
+    "stream-adventure": "~2.5.1",
+    "functional-javascript-workshop": "0.0.27",
+    "expressworks": "0.0.23",
+    "levelmeup": "~0.1.10",
+    "makemehapi": "~0.2.6",
+    "promise-it-wont-hurt": "~0.1.0",
+    "async-you": "0.0.12",
+    "nodebot-workshop": "~2.2.4",
+    "goingnative": "~1.4.12",
+    "planetproto": "~0.5.3",
+    "webgl-workshop": "~1.1.0",
+    "shader-school": "~1.0.2",
+    "bytewiser": "~2.0.1",
+    "bug-clinic": "~1.1.5",
+    "browserify-adventure": "~1.7.4",
+    "introtowebgl": "~1.0.1",
+    "count-to-6": "~0.5.3",
+    "kick-off-koa": "~1.1.4",
+    "lololodash": "~0.3.4",
+    "learnyoucouchdb": "~1.0.2",
+    "level": "~0.18.0",
+    "underscore": "~1.7.0"
   }
 }
